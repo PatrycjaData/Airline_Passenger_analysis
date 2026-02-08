@@ -17,7 +17,7 @@ To analyze and visualize passenger satisfaction, focusing on gender differences.
 
 ## Description
 
-I uploaded the dataset and explored basic information, checked structure and statistics. I have filtered the data to separate records by gender (female and male). Afterwards, I created bar charts to visualize the number of passengers per satisfaction category. Pie charts show the percentage distribution of satisfaction between women and men. Then I used bar plot to compare the satisfaction of both groups. Finally I performed chi-square test to check if the difference between genders is statistically significant
+I uploaded the dataset and explored basic information, checked structure and statistics. I have filtered the data to separate records by gender (female and male). Then I created bar charts to visualize the number of passengers per satisfaction category. Pie charts show the percentage distribution of satisfaction between women and men. I used bar plot to compare the satisfaction of both groups. Finally I performed chi-square test to check if the difference between genders is statistically significant
 
 ### Python Skills
 - Loading datasets
