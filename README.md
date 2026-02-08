@@ -4,16 +4,16 @@
 ## The dataset comes from Kaggle:
 <https://www.kaggle.com/datasets/teejmahal20/airline-passenger-satisfaction/data>
 
-#### Files in this Project
+## Main Goal
+To analyze and visualize passenger satisfaction, focusing on gender differences.
+
+### Files in this Project
 - `Airline_Passenger_Satisfaction.ipynb` - Jupyter notebook analysis and visualizations  
 - `README.md` - describes this project
 - `Licence` - MIT License for this project
 
- #### Tool
+ ### Tool
 - Jupyter Notebook
-
-## Main Goal
-To analyze and visualize passenger satisfaction, focusing on gender differences.
 
 
 ## Description
