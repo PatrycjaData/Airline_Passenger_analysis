@@ -1,2 +1,27 @@
-# Airline Passenger Analysis
-The main goal is to analyze and visualize passenger satisfaction, focusing on gender differences.
+# Airline Passenger Satisfaction
+
+### Created by Patrycja Decowska
+## The dataset comes from Kaggle:
+<https://www.kaggle.com/datasets/teejmahal20/airline-passenger-satisfaction/data>
+
+## Main Goal
+To analyze and visualize passenger satisfaction, focusing on gender differences.
+
+## Files in this Project
+- `Airline_Passenger_Satisfaction.ipynb` - Jupyter notebook analysis and visualizations  
+- `README.md` - describes this project
+- `Licence` - MIT License for this project
+
+ ## Tool
+- Jupyter Notebook
+
+## Description
+
+I uploaded the dataset and explored basic information, checked structure and statistics. I have filtered the data to separate records by gender (female and male). Afterwards, I created bar charts to visualize the number of passengers per satisfaction category. Pie charts show the percentage distribution of satisfaction between women and men. Then I used bar plot to compare the satisfaction of both groups. Finally I performed chi-square test to check if the difference between genders is statistically significant
+
+### Python Skills
+- Loading datasets
+- cleaning data and using basic statistical checks
+- Filtering and grouping data  
+- Creating charts   
+- Performing chi-square test
