@@ -25,3 +25,6 @@ I uploaded the dataset and explored basic information, checked structure and sta
 - Filtering and grouping data  
 - Creating charts   
 - Performing chi-square test
+
+## Results
+More than half of both female and male passengers are neutral or dissatisfied. The difference between female and male passengers is small. The chi-square test confirms that the difference is not statistically significant
