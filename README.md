@@ -11,7 +11,7 @@ To analyze and visualize passenger satisfaction, focusing on gender differences.
 - `Airline_Passenger_Satisfaction` - Jupyter notebook analysis and visualizations
 - `Dataset.csv` - dataset with passenger information
 - `README` - describes this project
-- `Licence` - MIT License for this project
+- `Licence` - MIT Licence for this project
 
  ## Tool
 - Jupyter Notebook
